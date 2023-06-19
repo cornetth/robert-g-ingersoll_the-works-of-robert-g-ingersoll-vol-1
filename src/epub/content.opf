@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">The Works of Robert G. Ingersoll, Vol. 1</dc:title>
+		<dc:title id="title">The Works of Robert G. Ingersoll, Vol. <meta property="dcterms:alternate" refines="#title">1</meta></dc:title>
 		<meta property="file-as" refines="#title">Works of Robert G. Ingersoll, Vol. 1, The</meta>
 		<dc:subject id="subject-1">Free thought</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
