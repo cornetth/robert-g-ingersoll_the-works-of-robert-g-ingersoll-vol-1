@@ -2,10 +2,6 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 blockquote p{
-	margin: 1em 2.5em;
-}
-
-blockquote p{
 	text-indent: 0;
 }
 
